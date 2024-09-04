@@ -1,0 +1,5 @@
+Write these commands in the terminal
+pip install datetime
+pip install face_recognition
+pip install mysql.connector
+pip install opencv-python
